@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 429742 filtered ascend = 0 plain-ascend = 0 cost=0 energy=2.0kwh time=20h 2m 23.896536221320275s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.22">
+ <trk>
+  <name>Kafle 69x69</name>
+  <link href="https://bikerouter.de/#map=11/49.5210/21.3904/standard,VV%20Fork&amp;lonlats=22.651405,49.455847;22.65295,50.414944;21.1389,50.414644;21.140102,49.455627;22.641278,49.455739&amp;straight=0,1,2,3&amp;profile=trekking-nosteps">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.455847048874254" lon="22.65140547768578"/>
+   <trkpt lat="50.41494424399165" lon="22.652950370406213"/>
+   <trkpt lat="50.41464352194348" lon="21.1388999973518"/>
+   <trkpt lat="49.455627443018" lon="21.14010205662979"/>
+   <trkpt lat="49.45573907601589" lon="22.64127819637998"/>
+  </trkseg>
+ </trk>
+</gpx>
